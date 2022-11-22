@@ -1,5 +1,5 @@
 # todoList
 Simple todo List using HTML CSS &amp; JS
-\n
+<br />
 Checkout here
 https://arnav-srivastava.github.io/todoList/
